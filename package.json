@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JinoridzeAlexander/TestSite/issues"
   },
-  "homepage": "https://github.com/JinoridzeAlexander/TestSite#readme"
+  "homepage": "https://github.com/JinoridzeAlexander/TestSite#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
